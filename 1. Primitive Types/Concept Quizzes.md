@@ -1,11 +1,5 @@
 <style>
-    .hidden {
-        color: transparent;
-    }
-
-    .hidden:hover {
-        color: white;
-    }
+    
 </style>
 
 # Unit 1 Concept Quizzes: Primitive Types
@@ -15,7 +9,7 @@
 <ul>
   <li>What is programming?</li>
   <ul>
-    <li class="hidden">Programming is the process of creating solutions to problems by telling a computer what to do.</li>
+    <li style="color: transparent;">Programming is the process of creating solutions to problems by telling a computer what to do.</li>
 </ul>
   <li>Why is Java a popular programming language?</li>
   <li>What are some applications that can be built using Java?</li>
