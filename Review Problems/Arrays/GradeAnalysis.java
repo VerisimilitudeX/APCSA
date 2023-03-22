@@ -1,3 +1,4 @@
+package Arrays;
 public class GradeAnalysis {
     public static int rowSum(int[] arr) {
         int sum = 0;

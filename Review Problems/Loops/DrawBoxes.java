@@ -1,3 +1,4 @@
+package Loops;
 public class DrawBoxes {
     public static void drawBoxes(int rows, int cols) {
         for (int i = 0; i < rows; i++) {
